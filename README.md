@@ -4,8 +4,7 @@
 - Compile it yourself:
 
 ----
-Checkout the published website [here](next-js-jsm-ecommerce.vercel.app)
-https://next-js-jsm-ecommerce.vercel.app/
+Checkout the published website [here](next-js-jsm-ecommerce.vercel.app) (https://next-js-jsm-ecommerce.vercel.app/)
 
 or to compile it: 
 
