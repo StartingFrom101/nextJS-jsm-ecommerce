@@ -11,4 +11,4 @@ or to compile it:
 Clone the repository, and in the directory 
 
 
-```npm i``` and then ```npm run dev``` and the page will be hosted at ``localhost:3000``
+```npm i --legacy-peer-deps``` and then ```npm run dev``` and the page will be hosted at ``localhost:3000``
