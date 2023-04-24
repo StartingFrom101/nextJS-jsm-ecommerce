@@ -163,6 +163,9 @@ width: 100%;
   font-size: 10em;
   margin-left: -20px;
   text-transform: uppercase;
+  background:   linear-gradient(to right, #ffffff 0%, #00000000 50%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .hero-banner-image{
   position: absolute;
@@ -627,7 +630,6 @@ margin-top: 160px;
   .hero-banner-image{
     width: 77%;
     height: 62%;
-    top: -2%;
     right: -6%;
   }
   .footer-banner-container{
